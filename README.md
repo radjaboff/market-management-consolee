@@ -15,13 +15,17 @@ A console-based Market Management System developed using Java Core and Java Adva
 
 ## Technologies
 
-- Java Core
-- Java Advanced
-- OOP
-- Stream API
-- File I/O
-- DTO Pattern
-- Layered Architecture
+• Java Core
+• Collections Framework
+• Stream API
+• JDBC
+• PostgreSQL
+• Git & GitHub
+• Maven
+• OOP
+• Exception Handling
+• Layered Architecture
+• DTO Pattern
 
 ## Project Structure
 
